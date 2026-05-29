@@ -1,0 +1,6 @@
+{
+  "name": "TelcoGrad",
+  "description": "Interactive Signal & Modulation Simulator, RF Link Budget & FSPL Calculator, and Gemini AI-powered Career & Technical Advisor for Telecommunication Engineering graduates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

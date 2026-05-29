@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Tower Legs -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,26 L36,88 M54,26 L72,88 M36,88 H72" />
+    <!-- Tower horizontal and cross bars -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M45,56 H63 M41,70 H67 M49,42 H59 L45,56 L54,26 L63,56 L49,42 M41,70 L63,56 M45,56 L67,70 M36,88 L67,70 M41,70 L72,88" />
+    <!-- Center Mast and Antenna dish -->
+    <path
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="3.0"
+        android:strokeLineCap="round"
+        android:pathData="M54,16 L54,26 M54,20 A5,5 0 1,1 54,20" />
+    <!-- Radiating signals left side -->
+    <path
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:pathData="M44,14 A12,12 0 0,0 44,26" />
+    <path
+        android:strokeColor="#3B82F6"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:pathData="M38,10 A20,20 0 0,0 38,30" />
+    <!-- Radiating signals right side -->
+    <path
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:pathData="M64,14 A12,12 0 0,1 64,26" />
+    <path
+        android:strokeColor="#3B82F6"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:pathData="M70,10 A20,20 0 0,1 70,30" />
+</vector>
